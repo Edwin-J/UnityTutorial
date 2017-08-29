@@ -53,6 +53,7 @@
   <ItemGroup>
      <Compile Include="Assets\scene\script\cameraContoller.cs" />
      <Compile Include="Assets\scene\script\playerController.cs" />
+     <Compile Include="Assets\scene\script\rotater.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
